@@ -4,9 +4,8 @@
             "id": 1,
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/misc/banners/banner_1.png",
             "category": "",
-            "link": "https://play.google.com/store/apps/details?id=com.debojyoti.radpapers"
+            "link": "https://play.google.com/store/apps/details?id=com.debojyoti.stellar_walls"
           },
-      
           {
             "id": 2,
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/misc/banners/banner_2.png",
@@ -20,7 +19,7 @@
             "link": "https://x.com/Pseudo_Maverick"
           }
     ],
-    "walls" : [
+    "walls": [
         {
             "id": 564,
             "name": "Fruit Monsters 1",
