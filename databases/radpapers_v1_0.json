@@ -21,6 +21,59 @@
     ],
     "walls": [
         {
+            "id": 568,
+            "name": "Road Trip",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenary/illustrated_landscapes/road_trip.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenary/illustrated_landscapes/thumb/road_trip.jpg",
+            "category": "Scenary",
+            "color": [
+                "orange",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 567,
+            "name": "Soothing Waters",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/dazzling_landscapes/soothing_waters.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/dazzling_landscapes/thumb/soothing_waters.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 566,
+            "name": "Lily Pads",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/lily_pads/lily_pads.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/lily_pads/thumb/lily_pads.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 565,
+            "name": "Low Poly Scenary",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/low_poly_landscapes/low_poly_scenary.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/low_poly_landscapes/thumb/low_poly_scenary.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue",
+                "pink",
+                "black"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 564,
             "name": "Fruit Monsters 1",
             "author": "Debojyoti Chakraborty",
