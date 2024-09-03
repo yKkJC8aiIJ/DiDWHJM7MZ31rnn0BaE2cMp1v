@@ -1,24 +1,4 @@
 {
-    "banners": [
-        {
-            "id": 1,
-            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/misc/banners/banner_1.png",
-            "category": "",
-            "link": "https://play.google.com/store/apps/details?id=com.debojyoti.radpapers"
-          },
-          {
-            "id": 2,
-            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/misc/banners/banner_2.png",
-            "category": "Scenary",
-            "link": ""
-          },
-          {
-            "id": 3,
-            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/misc/banners/banner_3.png",
-            "category": "",
-            "link": "https://x.com/Pseudo_Maverick"
-          }
-    ],
     "walls": [
         {
             "id": 568,
