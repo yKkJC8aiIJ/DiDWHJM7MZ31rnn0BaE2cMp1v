@@ -39,6 +39,36 @@
     ],
     "walls": [
         {
+            "id": 930,
+            "name": "Cinematic Dodge Challenger",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/radpapers_files/vehicles/cinematic_dodge_challenger.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/radpapers_files/vehicles/thumb/cinematic_dodge_challenger.png",
+            "category": "Radpapers Files",
+            "color": [
+                "black",
+                "orange",
+                "red",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 929,
+            "name": "Cinematic Mustang",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/radpapers_files/vehicles/cinematic_mustang.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/radpapers_files/vehicles/thumb/cinematic_mustang.png",
+            "category": "Radpapers Files",
+            "color": [
+                "black",
+                "red",
+                "gray",
+                "white"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 928,
             "name": "Lego Batman",
             "author": "Debojyoti Chakraborty",
