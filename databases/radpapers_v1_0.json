@@ -39,6 +39,48 @@
     ],
     "walls": [
         {
+            "id": 933,
+            "name": "Bear In Tall Grass",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/minimalistic/bear_in_tall_grass.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/minimalistic/thumb/bear_in_tall_grass.png",
+            "category": "Scenery",
+            "color": [
+                "blue",
+                "yellow",
+                "white",
+                "purple"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 932,
+            "name": "Cat And Bunny 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/minimalistic/cat_and_bunny_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/minimalistic/thumb/cat_and_bunny_1.png",
+            "category": "Scenery",
+            "color": [
+                "blue",
+                "orange",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 931,
+            "name": "Cat And Bunny 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/minimalistic/cat_and_bunny_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/minimalistic/thumb/cat_and_bunny_2.png",
+            "category": "Scenery",
+            "color": [
+                "gray",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 930,
             "name": "Cinematic Dodge Challenger",
             "author": "Debojyoti Chakraborty",
