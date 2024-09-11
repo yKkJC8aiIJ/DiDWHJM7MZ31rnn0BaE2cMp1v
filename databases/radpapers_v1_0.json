@@ -39,6 +39,51 @@
     ],
     "walls": [
         {
+            "id": 936,
+            "name": "Dragonfly Closeup 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/photorealistic_insects/dragonfly_closeup_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/photorealistic_insects/thumb/dragonfly_closeup_1.png",
+            "category": "Photorealistic",
+            "color": [
+                "black",
+                "gray",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 935,
+            "name": "Dragonfly Closeup 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/photorealistic_insects/dragonfly_closeup_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/photorealistic_insects/thumb/dragonfly_closeup_2.png",
+            "category": "Photorealistic",
+            "color": [
+                "purple",
+                "blue",
+                "red",
+                "white",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 934,
+            "name": "Dragonfly Closeup 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/photorealistic_insects/dragonfly_closeup_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/photorealistic_insects/thumb/dragonfly_closeup_3.png",
+            "category": "Photorealistic",
+            "color": [
+                "black",
+                "orange",
+                "brown",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 933,
             "name": "Bear In Tall Grass",
             "author": "Debojyoti Chakraborty",
