@@ -39,6 +39,49 @@
     ],
     "walls": [
         {
+            "id": 939,
+            "name": "Marin Kitagawa 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/anime_characters/marin_kitagawa_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/anime_characters/thumb/marin_kitagawa_1.png",
+            "category": "Portraits",
+            "color": [
+                "red",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 938,
+            "name": "Marin Kitagawa 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/anime_characters/marin_kitagawa_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/anime_characters/thumb/marin_kitagawa_2.png",
+            "category": "Portraits",
+            "color": [
+                "red",
+                "white",
+                "blue",
+                "purple",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 937,
+            "name": "Marin Kitagawa 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/anime_characters/marin_kitagawa_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/anime_characters/thumb/marin_kitagawa_3.png",
+            "category": "Portraits",
+            "color": [
+                "white",
+                "blue",
+                "red"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 936,
             "name": "Dragonfly Closeup 1",
             "author": "Debojyoti Chakraborty",
