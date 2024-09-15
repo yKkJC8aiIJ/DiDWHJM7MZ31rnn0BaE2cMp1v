@@ -39,6 +39,78 @@
     ],
     "walls": [
         {
+            "id": 944,
+            "name": "Joy Of Rain 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/serenity_of_the_rain/joy_of_rain_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/serenity_of_the_rain/thumb/joy_of_rain_1.png",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "yellow",
+                "green"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 943,
+            "name": "Joy Of Rain 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/serenity_of_the_rain/joy_of_rain_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/serenity_of_the_rain/thumb/joy_of_rain_2.png",
+            "category": "Animescapes",
+            "color": [
+                "purple",
+                "yellow",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 942,
+            "name": "Joy Of Rain 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/serenity_of_the_rain/joy_of_rain_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/serenity_of_the_rain/thumb/joy_of_rain_3.png",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 941,
+            "name": "Venom The Last Dance 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/supervillains/venom_the_last_dance_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/supervillains/thumb/venom_the_last_dance_1.png",
+            "category": "Portraits",
+            "color": [
+                "red",
+                "black",
+                "brown",
+                "gray",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 940,
+            "name": "Venom The Last Dance 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/supervillains/venom_the_last_dance_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/supervillains/thumb/venom_the_last_dance_2.png",
+            "category": "Portraits",
+            "color": [
+                "gray",
+                "white",
+                "brown",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 939,
             "name": "Marin Kitagawa 1",
             "author": "Debojyoti Chakraborty",
