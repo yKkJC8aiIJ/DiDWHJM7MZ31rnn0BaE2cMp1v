@@ -39,6 +39,96 @@
     ],
     "walls": [
         {
+            "id": 950,
+            "name": "Distorted Dark 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/flowy/distorted_dark_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/flowy/thumb/distorted_dark_1.png",
+            "category": "Abstract",
+            "color": [
+                "black",
+                "yellow",
+                "red",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 949,
+            "name": "Distorted Dark 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/flowy/distorted_dark_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/flowy/thumb/distorted_dark_2.png",
+            "category": "Abstract",
+            "color": [
+                "black",
+                "orange",
+                "red",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 948,
+            "name": "Distorted Dark 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/flowy/distorted_dark_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/flowy/thumb/distorted_dark_3.png",
+            "category": "Abstract",
+            "color": [
+                "black",
+                "orange",
+                "gray",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 947,
+            "name": "Hallucination 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/acrylic_smudges/hallucination_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/acrylic_smudges/thumb/hallucination_1.png",
+            "category": "Abstract",
+            "color": [
+                "blue",
+                "white",
+                "red",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 946,
+            "name": "Hallucination 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/acrylic_smudges/hallucination_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/acrylic_smudges/thumb/hallucination_2.png",
+            "category": "Abstract",
+            "color": [
+                "blue",
+                "white",
+                "orange",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 945,
+            "name": "Hallucination 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/acrylic_smudges/hallucination_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/acrylic_smudges/thumb/hallucination_3.png",
+            "category": "Abstract",
+            "color": [
+                "black",
+                "gray",
+                "red",
+                "orange"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 944,
             "name": "Joy Of Rain 1",
             "author": "Debojyoti Chakraborty",
