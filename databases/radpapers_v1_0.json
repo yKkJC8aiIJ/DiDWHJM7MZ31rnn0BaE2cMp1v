@@ -39,6 +39,63 @@
     ],
     "walls": [
         {
+            "id": 954,
+            "name": "Foggy Minimal Scenery 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/foggy_minimal_scenery_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/thumb/foggy_minimal_scenery_1.png",
+            "category": "Scenery",
+            "color": [
+                "white",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 953,
+            "name": "Foggy Minimal Scenery 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/foggy_minimal_scenery_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/thumb/foggy_minimal_scenery_2.png",
+            "category": "Scenery",
+            "color": [
+                "white",
+                "blue",
+                "orange"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 952,
+            "name": "Foggy Minimal Scenery 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/foggy_minimal_scenery_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/thumb/foggy_minimal_scenery_3.png",
+            "category": "Scenery",
+            "color": [
+                "white",
+                "blue",
+                "orange",
+                "purple"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 951,
+            "name": "Foggy Minimal Scenery 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/foggy_minimal_scenery_4.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/foggy_minimal_scenery/thumb/foggy_minimal_scenery_4.png",
+            "category": "Scenery",
+            "color": [
+                "white",
+                "blue",
+                "orange",
+                "red"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 950,
             "name": "Distorted Dark 1",
             "author": "Debojyoti Chakraborty",
