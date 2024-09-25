@@ -39,6 +39,131 @@
     ],
     "walls": [
         {
+            "id": 963,
+            "name": "Toji Fushiguro",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/toji_fushiguro.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/toji_fushiguro.png",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 962,
+            "name": "Gojo Satoru Hollow Purple 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/gojo_satoru_hollow_purple_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/gojo_satoru_hollow_purple_1.png",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 961,
+            "name": "Gojo Satoru Hollow Purple 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/gojo_satoru_hollow_purple_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/gojo_satoru_hollow_purple_2.png",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "gray",
+                "black"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 960,
+            "name": "Sukuna Malevolent Shrine 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_1.png",
+            "category": "Animescapes",
+            "color": [
+                "black",
+                "red",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 959,
+            "name": "Sukuna Malevolent Shrine 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_2.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "purple"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 958,
+            "name": "Sukuna Malevolent Shrine 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_3.png",
+            "category": "Animescapes",
+            "color": [
+                "purple",
+                "red",
+                "orange",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 957,
+            "name": "Sukuna Malevolent Shrine 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_4.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/sukuna_malevolent_shrine_4.png",
+            "category": "Animescapes",
+            "color": [
+                "purple",
+                "red",
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 956,
+            "name": "Rage Of Berserk 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/rage_of_berserk_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/rage_of_berserk_1.jpg",
+            "category": "Animescapes",
+            "color": [
+                "black",
+                "green",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 955,
+            "name": "Rage Of Berserk 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/rage_of_berserk_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/rage_of_berserk_1.jpg",
+            "category": "Animescapes",
+            "color": [
+                "black",
+                "green",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 954,
             "name": "Foggy Minimal Scenery 1",
             "author": "Debojyoti Chakraborty",
