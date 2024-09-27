@@ -39,6 +39,80 @@
     ],
     "walls": [
         {
+            "id": 959,
+            "name": "Nissan Skyline 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/nissan_skyline_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/nissan_skyline_1.png",
+            "category": "Vehicles",
+            "color": [
+                "purple",
+                "red",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 958,
+            "name": "Nissan Skyline 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/nissan_skyline_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/nissan_skyline_2.png",
+            "category": "Vehicles",
+            "color": [
+                "purple",
+                "black",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 957,
+            "name": "Nissan R35",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/nissan_r35.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/nissan_r35.png",
+            "category": "Vehicles",
+            "color": [
+                "purple",
+                "black",
+                "white",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 956,
+            "name": "Supra 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/supra_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/supra_1.png",
+            "category": "Vehicles",
+            "color": [
+                "brown",
+                "yellow",
+                "orange",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 955,
+            "name": "Supra 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/supra_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/supra_2.png",
+            "category": "Vehicles",
+            "color": [
+                "brown",
+                "yellow",
+                "gray",
+                "orange",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 963,
             "name": "Toji Fushiguro",
             "author": "Debojyoti Chakraborty",
