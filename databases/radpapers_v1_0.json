@@ -50,7 +50,7 @@
                 "blue",
                 "black"
             ],
-            "isPremium": true
+            "isPremium": false
         },
         {
             "id": 966,
@@ -64,7 +64,7 @@
                 "white",
                 "gray"
             ],
-            "isPremium": true
+            "isPremium": false
         },
         {
             "id": 965,
@@ -79,7 +79,7 @@
                 "white",
                 "gray"
             ],
-            "isPremium": true
+            "isPremium": false
         },
         {
             "id": 964,
@@ -93,7 +93,7 @@
                 "blue",
                 "gray"
             ],
-            "isPremium": true
+            "isPremium": false
         },
         {
             "id": 963,
