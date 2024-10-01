@@ -39,6 +39,122 @@
     ],
     "walls": [
         {
+            "id": 967,
+            "name": "Ultra Minimal Iceland 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_1.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "white",
+                "blue",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 966,
+            "name": "Ultra Minimal Iceland 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_2.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "blue",
+                "white",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 965,
+            "name": "Ultra Minimal Iceland 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_3.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "blue",
+                "black",
+                "white",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 964,
+            "name": "Ultra Minimal Iceland 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_4.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "black",
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 963,
+            "name": "Ultra Minimal Iceland 5",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_5.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_5.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "black",
+                "white",
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 962,
+            "name": "Ultra Minimal Iceland 6",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_6.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_6.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "white",
+                "black",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 961,
+            "name": "Ultra Minimal Iceland 7",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_7.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_7.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "white",
+                "black",
+                "blue",
+                "brown"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 960,
+            "name": "Ultra Minimal Iceland 8",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_8.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/ultra_minimal_iceland/ultra_minimal_iceland_8.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "black",
+                "white",
+                "brown",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 959,
             "name": "Nissan Skyline 1",
             "author": "Debojyoti Chakraborty",
