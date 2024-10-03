@@ -39,6 +39,76 @@
     ],
     "walls": [
         {
+            "id": 972,
+            "name": "Oswald Octopus",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/oswald_octopus.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/oswald_octopus.png",
+            "category": "3d Characters",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 971,
+            "name": "Handy Man",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/handy_man.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/handy_man.png",
+            "category": "3d Characters",
+            "color": [
+                "yellow",
+                "blue",
+                "orange"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 970,
+            "name": "Cute Penguin 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/cute_penguin_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/cute_penguin_1.png",
+            "category": "3d Characters",
+            "color": [
+                "orange",
+                "gray",
+                "white",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 969,
+            "name": "Cute Penguin 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/cute_penguin_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/cute_penguin_2.png",
+            "category": "3d Characters",
+            "color": [
+                "gray",
+                "orange",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 968,
+            "name": "Lego Surfer",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/lego_characters/lego_surfer.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/lego_characters/thumb/lego_surfer.jpg",
+            "category": "3d Characters",
+            "color": [
+                "blue",
+                "gray",
+                "green"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 967,
             "name": "Ultra Minimal Iceland 1",
             "author": "Debojyoti Chakraborty",
