@@ -45,6 +45,21 @@
     ],
     "walls": [
         {
+            "id": 973,
+            "name": "Clown",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/clown.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/clown.jpg",
+            "category": "3d Characters",
+            "color": [
+                "yellow",
+                "white",
+                "black",
+                "orange"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 972,
             "name": "Oswald Octopus",
             "author": "Debojyoti Chakraborty",
