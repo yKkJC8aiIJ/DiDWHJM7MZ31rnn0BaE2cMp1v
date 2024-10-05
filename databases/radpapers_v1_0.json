@@ -45,6 +45,73 @@
     ],
     "walls": [
         {
+            "id": 978,
+            "name": "Alien Invasion 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/vehicles/alien_invasion_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/vehicles/thumb/alien_invasion_1.png",
+            "category": "Futuristic",
+            "color": [
+                "blue",
+                "purple"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 977,
+            "name": "Alien Invasion 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/vehicles/alien_invasion_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/vehicles/thumb/alien_invasion_2.png",
+            "category": "Futuristic",
+            "color": [
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 976,
+            "name": "Bmw M4 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/fictional/bmw_m4_1.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/fictional/bmw_m4_1.png",
+            "category": "Vehicles",
+            "color": [
+                "purple",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 975,
+            "name": "Bmw M4 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/fictional/bmw_m4_2.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/fictional/bmw_m4_2.png",
+            "category": "Vehicles",
+            "color": [
+                "purple",
+                "blue",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 974,
+            "name": "Bmw M4 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/fictional/bmw_m4_3.png",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/fictional/bmw_m4_3.png",
+            "category": "Vehicles",
+            "color": [
+                "purple",
+                "black",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 973,
             "name": "Clown",
             "author": "Debojyoti Chakraborty",
