@@ -45,6 +45,47 @@
     ],
     "walls": [
         {
+            "id": 981,
+            "name": "Deer Herd",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/tales_of_nature/deer_herd.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/tales_of_nature/thumb/deer_herd.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 980,
+            "name": "Foxes In Forest",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/tales_of_nature/foxes_in_forest.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/tales_of_nature/thumb/foxes_in_forest.jpg",
+            "category": "Animescapes",
+            "color": [
+                "green",
+                "yellow",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 979,
+            "name": "Sunset By The Sea",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/tales_of_nature/sunset_by_the_sea.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/tales_of_nature/thumb/sunset_by_the_sea.jpg",
+            "category": "Animescapes",
+            "color": [
+                "orange",
+                "blue",
+                "purple"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 978,
             "name": "Alien Invasion 1",
             "author": "Debojyoti Chakraborty",
