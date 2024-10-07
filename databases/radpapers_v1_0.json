@@ -45,6 +45,74 @@
     ],
     "walls": [
         {
+            "id": 986,
+            "name": "Dab Hypebeast",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/dab_hypebeast.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/dab_hypebeast.jpg",
+            "category": "3d Characters",
+            "color": [
+                "gray",
+                "yellow"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 985,
+            "name": "Explorer Hypebeast",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/explorer_hypebeast.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/explorer_hypebeast.jpg",
+            "category": "3d Characters",
+            "color": [
+                "blue",
+                "gray",
+                "white"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 984,
+            "name": "Robo Hypebeast 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/robo_hypebeast_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/robo_hypebeast_1.jpg",
+            "category": "3d Characters",
+            "color": [
+                "black",
+                "red",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 983,
+            "name": "Robo Hypebeast 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/robo_hypebeast_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/robo_hypebeast_2.jpg",
+            "category": "3d Characters",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 982,
+            "name": "Marshmellow Person",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/marshmellow_person.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_characters/miniature/thumb/marshmellow_person.jpg",
+            "category": "3d Characters",
+            "color": [
+                "blue",
+                "gray",
+                "black"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 981,
             "name": "Deer Herd",
             "author": "Debojyoti Chakraborty",
