@@ -45,6 +45,65 @@
     ],
     "walls": [
         {
+            "id": 990,
+            "name": "Adorable Cat 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/adorable_cat_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/thumb/adorable_cat_1.jpg",
+            "category": "Cute Animals",
+            "color": [
+                "blue",
+                "green",
+                "purple"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 989,
+            "name": "Adorable Cat 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/adorable_cat_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/thumb/adorable_cat_2.jpg",
+            "category": "Cute Animals",
+            "color": [
+                "purple",
+                "gray",
+                "blue",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 988,
+            "name": "Adorable Cat 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/adorable_cat_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/thumb/adorable_cat_3.jpg",
+            "category": "Cute Animals",
+            "color": [
+                "gray",
+                "blue",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 987,
+            "name": "Cats Cartoonish",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/cats_cartoonish.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cute_animals/cute_cats/thumb/cats_cartoonish.jpg",
+            "category": "Cute Animals",
+            "color": [
+                "yellow",
+                "purple",
+                "white",
+                "green",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 986,
             "name": "Dab Hypebeast",
             "author": "Debojyoti Chakraborty",
