@@ -45,6 +45,63 @@
     ],
     "walls": [
         {
+            "id": 996,
+            "name": "Tanjiro 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/tanjiro_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/thumb/tanjiro_1.jpg",
+            "category": "Animescapes",
+            "color": [
+                "purple",
+                "red",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 995,
+            "name": "Tanjiro 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/tanjiro_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/thumb/tanjiro_2.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "orange",
+                "black"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 994,
+            "name": "Goku",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/goku.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/thumb/goku.jpg",
+            "category": "Animescapes",
+            "color": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 993,
+            "name": "Vegeta",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/vegeta.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/action/thumb/vegeta.jpg",
+            "category": "Animescapes",
+            "color": [
+                "yellow",
+                "gray",
+                "red",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 992,
             "name": "Maa Durga Madhubani 1",
             "author": "Debojyoti Chakraborty",
