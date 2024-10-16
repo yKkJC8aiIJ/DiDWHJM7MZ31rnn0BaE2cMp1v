@@ -45,6 +45,61 @@
     ],
     "walls": [
         {
+            "id": 1000,
+            "name": "Bmw M8 Comp 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/bmw_m8_comp_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/bmw_m8_comp_1.jpg",
+            "category": "Vehicles",
+            "color": [
+                "blue",
+                "white",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 999,
+            "name": "Bmw M8 Comp 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/bmw_m8_comp_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/bmw_m8_comp_2.jpg",
+            "category": "Vehicles",
+            "color": [
+                "blue",
+                "white",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 998,
+            "name": "Bmw M8 Comp 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/bmw_m8_comp_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/bmw_m8_comp_3.jpg",
+            "category": "Vehicles",
+            "color": [
+                "gray",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 997,
+            "name": "Bmw M8 Comp 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/bmw_m8_comp_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/vehicles/realism/thumb/bmw_m8_comp_4.jpg",
+            "category": "Vehicles",
+            "color": [
+                "gray",
+                "black",
+                "brown"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 996,
             "name": "Tanjiro 1",
             "author": "Debojyoti Chakraborty",
