@@ -45,6 +45,49 @@
     ],
     "walls": [
         {
+            "id": 1221,
+            "name": "Cottage At Night",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/cartoonish_animals/cottage_at_night.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/cartoonish_animals/thumb/cottage_at_night.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "blue",
+                "yellow",
+                "green"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1220,
+            "name": "Mama Bear And Cub",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/cartoonish_animals/mama_bear_and_cub.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/cartoonish_animals/thumb/mama_bear_and_cub.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "green",
+                "gray",
+                "yellow",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1219,
+            "name": "Deer Drinking Water",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/cartoonish_animals/deer_drinking_water.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/cartoonish_animals/thumb/deer_drinking_water.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "white",
+                "green",
+                "yellow"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1218,
             "name": "Adorable Panda",
             "author": "Debojyoti Chakraborty",
