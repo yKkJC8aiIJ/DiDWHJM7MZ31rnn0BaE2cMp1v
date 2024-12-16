@@ -45,6 +45,167 @@
     ],
     "walls": [
         {
+            "id": 1233,
+            "name": "Abstraction Light 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_1.jpg",
+            "category": "Abstract",
+            "color": [
+                "white",
+                "blue",
+                "orange"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1232,
+            "name": "Abstraction Light 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_2.jpg",
+            "category": "Abstract",
+            "color": [
+                "orange",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1231,
+            "name": "Abstraction Light 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_3.jpg",
+            "category": "Abstract",
+            "color": [
+                "orange",
+                "blue",
+                "white",
+                "gray",
+                "yellow"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1230,
+            "name": "Abstraction Light 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_4.jpg",
+            "category": "Abstract",
+            "color": [
+                "purple",
+                "blue",
+                "red"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1229,
+            "name": "Abstraction Light 5",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_5.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_5.jpg",
+            "category": "Abstract",
+            "color": [
+                "red",
+                "blue",
+                "gray",
+                "orange"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1228,
+            "name": "Abstraction Light 6",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_6.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_6.jpg",
+            "category": "Abstract",
+            "color": [
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1227,
+            "name": "Abstraction Light 7",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_7.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_7.jpg",
+            "category": "Abstract",
+            "color": [
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1226,
+            "name": "Abstraction Light 8",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_8.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_8.jpg",
+            "category": "Abstract",
+            "color": [
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1225,
+            "name": "Abstraction Light 9",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_9.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_9.jpg",
+            "category": "Abstract",
+            "color": [
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1224,
+            "name": "Abstraction Light 10",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_10.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_10.jpg",
+            "category": "Abstract",
+            "color": [
+                "white",
+                "gray",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1223,
+            "name": "Abstraction Light 11",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_11.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_11.jpg",
+            "category": "Abstract",
+            "color": [
+                "gray",
+                "blue",
+                "white"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1222,
+            "name": "Abstraction Light 12",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/abstraction_light_12.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/abstraction_light/thumb/abstraction_light_12.jpg",
+            "category": "Abstract",
+            "color": [
+                "gray",
+                "brown"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1221,
             "name": "Cottage At Night",
             "author": "Debojyoti Chakraborty",
