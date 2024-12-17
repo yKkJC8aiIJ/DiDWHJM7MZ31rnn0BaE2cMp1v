@@ -45,7 +45,7 @@
     ],
     "walls": [
         {
-            "id": 1237,
+            "id": 1238,
             "name": "Alien Abduction",
             "author": "Debojyoti Chakraborty",
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/alien_abduction.jpg",
@@ -58,7 +58,7 @@
             "isPremium": true
         },
         {
-            "id": 1236,
+            "id": 1237,
             "name": "Chilly Hills",
             "author": "Debojyoti Chakraborty",
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/chilly_hills.jpg",
@@ -73,7 +73,7 @@
             "isPremium": true
         },
         {
-            "id": 1235,
+            "id": 1236,
             "name": "Grazing Rhino 1",
             "author": "Debojyoti Chakraborty",
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/grazing_rhino_1.jpg",
@@ -86,7 +86,7 @@
             "isPremium": true
         },
         {
-            "id": 1234,
+            "id": 1235,
             "name": "Grazing Rhino 2",
             "author": "Debojyoti Chakraborty",
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/grazing_rhino_2.jpg",
@@ -96,6 +96,19 @@
                 "blue",
                 "yellow",
                 "black"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1234,
+            "name": "Cascading Waterfall",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/cascading_waterfall.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/thumb/cascading_waterfall.jpg",
+            "category": "Scenery",
+            "color": [
+               "white",
+                "gray"
             ],
             "isPremium": true
         },
