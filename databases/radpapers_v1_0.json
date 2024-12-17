@@ -45,6 +45,61 @@
     ],
     "walls": [
         {
+            "id": 1237,
+            "name": "Alien Abduction",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/alien_abduction.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/thumb/alien_abduction.jpg",
+            "category": "Scenery",
+            "color": [
+                "white",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1236,
+            "name": "Chilly Hills",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/chilly_hills.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/thumb/chilly_hills.jpg",
+            "category": "Scenery",
+            "color": [
+                "white",
+                "blue",
+                "gray",
+                "orange"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1235,
+            "name": "Grazing Rhino 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/grazing_rhino_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/thumb/grazing_rhino_1.jpg",
+            "category": "Scenery",
+            "color": [
+                "yellow",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1234,
+            "name": "Grazing Rhino 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/grazing_rhino_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/textured_art/thumb/grazing_rhino_2.jpg",
+            "category": "Scenery",
+            "color": [
+                "blue",
+                "yellow",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1233,
             "name": "Abstraction Light 1",
             "author": "Debojyoti Chakraborty",
