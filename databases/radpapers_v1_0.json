@@ -45,6 +45,79 @@
     ],
     "walls": [
         {
+            "id": 1243,
+            "name": "Chill Astronaut 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/space/astronaut/chill_astronaut_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/space/astronaut/thumb/chill_astronaut_1.jpg",
+            "category": "Space",
+            "color": [
+                "brown",
+                "yellow",
+                "orange",
+                "gray",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1242,
+            "name": "Chill Astronaut 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/space/astronaut/chill_astronaut_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/space/astronaut/thumb/chill_astronaut_2.jpg",
+            "category": "Space",
+            "color": [
+                "gray",
+                "yellow",
+                "orange"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1241,
+            "name": "Chill Astronaut 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/space/astronaut/chill_astronaut_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/space/astronaut/thumb/chill_astronaut_3.jpg",
+            "category": "Space",
+            "color": [
+                "black",
+                "gray",
+                "orange",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1240,
+            "name": "Exotic Piano Concert",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/bizzare/exotic_piano_concert.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/bizzare/thumb/exotic_piano_concert.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1239,
+            "name": "Floating Samurai",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/bizzare/floating_samurai.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/bizzare/thumb/floating_samurai.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue",
+                "white",
+                "black",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1238,
             "name": "Alien Abduction",
             "author": "Debojyoti Chakraborty",
