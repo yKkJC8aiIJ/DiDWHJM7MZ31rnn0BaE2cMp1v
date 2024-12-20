@@ -45,6 +45,62 @@
     ],
     "walls": [
         {
+            "id": 1247,
+            "name": "Superman Symbol Of Hope 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/superman_symbol_of_hope_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/thumb/superman_symbol_of_hope_1.jpg",
+            "category": "Portraits",
+            "color": [
+                "orange",
+                "black",
+                "gray",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1246,
+            "name": "Superman Symbol Of Hope 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/superman_symbol_of_hope_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/thumb/superman_symbol_of_hope_2.jpg",
+            "category": "Portraits",
+            "color": [
+                "brown",
+                "orange",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1245,
+            "name": "Snyderverse Dystopian Superman 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/snyderverse_dystopian_superman_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/thumb/snyderverse_dystopian_superman_1.jpg",
+            "category": "Portraits",
+            "color": [
+                "red",
+                "black",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1244,
+            "name": "Snyderverse Dystopian Superman 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/snyderverse_dystopian_superman_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/superheroes/thumb/snyderverse_dystopian_superman_2.jpg",
+            "category": "Portraits",
+            "color": [
+                "red",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1243,
             "name": "Chill Astronaut 1",
             "author": "Debojyoti Chakraborty",
