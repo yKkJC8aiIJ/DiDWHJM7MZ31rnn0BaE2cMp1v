@@ -45,6 +45,50 @@
     ],
     "walls": [
         {
+            "id": 1260,
+            "name": "Voxel Art Car 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/voxel_art/voxel_art_car_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/voxel_art/thumb/voxel_art_car_1.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "red",
+                "purple",
+                "white",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1259,
+            "name": "Voxel Art Car 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/voxel_art/voxel_art_car_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/voxel_art/thumb/voxel_art_car_2.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "red",
+                "purple",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1258,
+            "name": "Isometric Cactus",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/voxel_art/isometric_cactus.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/voxel_art/thumb/isometric_cactus.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "red",
+                "blue",
+                "purple",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1257,
             "name": "Christmas 1",
             "author": "Debojyoti Chakraborty",
