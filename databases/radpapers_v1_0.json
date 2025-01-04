@@ -45,6 +45,61 @@
     ],
     "walls": [
         {
+            "id": 1264,
+            "name": "Psychedelic Skull 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/psychedelic_skull_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/thumb/psychedelic_skull_1.jpg",
+            "category": "Monsters",
+            "color": [
+                "purple",
+                "black",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1263,
+            "name": "Psychedelic Skull 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/psychedelic_skull_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/thumb/psychedelic_skull_2.jpg",
+            "category": "Monsters",
+            "color": [
+                "black",
+                "purple",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1262,
+            "name": "Psychedelic Skull 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/psychedelic_skull_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/thumb/psychedelic_skull_3.jpg",
+            "category": "Monsters",
+            "color": [
+                "blue",
+                "black",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1261,
+            "name": "Psychedelic Skull 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/psychedelic_skull_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/psychedelic/thumb/psychedelic_skull_4.jpg",
+            "category": "Monsters",
+            "color": [
+                "blue",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1260,
             "name": "Voxel Art Car 1",
             "author": "Debojyoti Chakraborty",
