@@ -45,6 +45,44 @@
     ],
     "walls": [
         {
+            "id": 1267,
+            "name": "Harry Potter Stag 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/cartoon_shows/harry_potter_stag_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/cartoon_shows/thumb/harry_potter_stag_1.jpg",
+            "category": "Scenery",
+            "color": [
+                "blue",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1266,
+            "name": "Harry Potter Stag 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/cartoon_shows/harry_potter_stag_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/cartoon_shows/thumb/harry_potter_stag_2.jpg",
+            "category": "Scenery",
+            "color": [
+                "blue",
+                "black"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1265,
+            "name": "Harry Potter Stag 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/cartoon_shows/harry_potter_stag_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/cartoon_shows/thumb/harry_potter_stag_3.jpg",
+            "category": "Scenery",
+            "color": [
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1264,
             "name": "Psychedelic Skull 1",
             "author": "Debojyoti Chakraborty",
