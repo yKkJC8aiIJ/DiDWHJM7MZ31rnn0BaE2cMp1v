@@ -45,6 +45,50 @@
     ],
     "walls": [
         {
+            "id": 1270,
+            "name": "Chibi Chill Guy 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/chibi/chibi_chill_guy_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/chibi/thumb/chibi_chill_guy_1.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "gray",
+                "blue",
+                "orange",
+                "yellow",
+                "green"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1269,
+            "name": "Chibi Chill Guy 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/chibi/chibi_chill_guy_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/chibi/thumb/chibi_chill_guy_2.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "blue",
+                "gray",
+                "green"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1268,
+            "name": "Chibi Chill Guy 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/chibi/chibi_chill_guy_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/chibi/thumb/chibi_chill_guy_3.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "yellow",
+                "blue",
+                "purple"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1267,
             "name": "Harry Potter Stag 1",
             "author": "Debojyoti Chakraborty",
