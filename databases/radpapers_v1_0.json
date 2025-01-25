@@ -45,6 +45,49 @@
     ],
     "walls": [
         {
+            "id": 1273,
+            "name": "Sea Of Thoughts 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/sea_of_thoughts/sea_of_thoughts_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/sea_of_thoughts/thumb/sea_of_thoughts_1.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "orange",
+                "brown",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1272,
+            "name": "Sea Of Thoughts 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/sea_of_thoughts/sea_of_thoughts_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/sea_of_thoughts/thumb/sea_of_thoughts_2.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "orange",
+                "gray",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1271,
+            "name": "Sea Of Thoughts 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/sea_of_thoughts/sea_of_thoughts_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/sea_of_thoughts/thumb/sea_of_thoughts_3.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1270,
             "name": "Chibi Chill Guy 1",
             "author": "Debojyoti Chakraborty",
