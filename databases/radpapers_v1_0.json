@@ -45,6 +45,75 @@
     ],
     "walls": [
         {
+            "id": 1278,
+            "name": "Textured Oil Painting 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/textured_oil_painting_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/thumb/textured_oil_painting_1.jpg",
+            "category": "Abstract",
+            "color": [
+                "yellow",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1277,
+            "name": "Textured Oil Painting 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/textured_oil_painting_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/thumb/textured_oil_painting_2.jpg",
+            "category": "Abstract",
+            "color": [
+                "blue",
+                "orange",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1276,
+            "name": "Textured Oil Painting 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/textured_oil_painting_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/thumb/textured_oil_painting_3.jpg",
+            "category": "Abstract",
+            "color": [
+                "blue",
+                "orange",
+                "red",
+                "white",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1275,
+            "name": "Textured Oil Painting 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/textured_oil_painting_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/thumb/textured_oil_painting_4.jpg",
+            "category": "Abstract",
+            "color": [
+                "green",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1274,
+            "name": "Textured Oil Painting 5",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/textured_oil_painting_5.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/abstract/oil_paint/thumb/textured_oil_painting_5.jpg",
+            "category": "Abstract",
+            "color": [
+                "yellow",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1273,
             "name": "Sea Of Thoughts 1",
             "author": "Debojyoti Chakraborty",
