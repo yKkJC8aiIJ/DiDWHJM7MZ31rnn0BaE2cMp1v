@@ -45,6 +45,61 @@
     ],
     "walls": [
         {
+            "id": 1282,
+            "name": "Godzilla Pixel Art 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/godzilla_pixel_art_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/thumb/godzilla_pixel_art_1.jpg",
+            "category": "Monsters",
+            "color": [
+                "white",
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1281,
+            "name": "Godzilla Pixel Art 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/godzilla_pixel_art_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/thumb/godzilla_pixel_art_2.jpg",
+            "category": "Monsters",
+            "color": [
+                "blue",
+                "white",
+                "black"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1280,
+            "name": "Godzilla Pixel Art 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/godzilla_pixel_art_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/thumb/godzilla_pixel_art_3.jpg",
+            "category": "Monsters",
+            "color": [
+                "blue",
+                "gray",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1279,
+            "name": "Godzilla Pixel Art 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/godzilla_pixel_art_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/monsters/godzilla/thumb/godzilla_pixel_art_4.jpg",
+            "category": "Monsters",
+            "color": [
+                "white",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1278,
             "name": "Textured Oil Painting 1",
             "author": "Debojyoti Chakraborty",
