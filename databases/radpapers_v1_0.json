@@ -45,6 +45,50 @@
     ],
     "walls": [
         {
+            "id": 1285,
+            "name": "Rick And Morty 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/animated_style/rick_and_morty_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/animated_style/thumb/rick_and_morty_1.jpg",
+            "category": "Portraits",
+            "color": [
+                "purple",
+                "red",
+                "blue",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1284,
+            "name": "Rick And Morty 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/animated_style/rick_and_morty_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/animated_style/thumb/rick_and_morty_2.jpg",
+            "category": "Portraits",
+            "color": [
+                "gray",
+                "red",
+                "yellow"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1283,
+            "name": "Rick And Morty 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/animated_style/rick_and_morty_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/portraits/animated_style/thumb/rick_and_morty_3.jpg",
+            "category": "Portraits",
+            "color": [
+                "gray",
+                "orange",
+                "yellow",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1282,
             "name": "Godzilla Pixel Art 1",
             "author": "Debojyoti Chakraborty",
