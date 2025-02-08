@@ -45,6 +45,33 @@
     ],
     "walls": [
         {
+            "id": 1287,
+            "name": "Monkey In Jungle Bokeh 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/cinematic/monkey_in_jungle_bokeh_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/cinematic/thumb/monkey_in_jungle_bokeh_1.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "white",
+                "gray",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1286,
+            "name": "Monkey In Jungle Bokeh 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/cinematic/monkey_in_jungle_bokeh_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/cinematic/thumb/monkey_in_jungle_bokeh_2.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "gray",
+                "green"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1285,
             "name": "Rick And Morty 1",
             "author": "Debojyoti Chakraborty",
