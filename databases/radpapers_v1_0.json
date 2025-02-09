@@ -45,6 +45,35 @@
     ],
     "walls": [
         {
+            "id": 1289,
+            "name": "Luminous Landscape 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/luminous_landscape/luminous_landscape_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/luminous_landscape/thumb/luminous_landscape_1.jpg",
+            "category": "Animescapes",
+            "color": [
+                "blue",
+                "red",
+                "yellow",
+                "gray"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1288,
+            "name": "Luminous Landscape 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/luminous_landscape/luminous_landscape_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/animescapes/luminous_landscape/thumb/luminous_landscape_2.jpg",
+            "category": "Animescapes",
+            "color": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1287,
             "name": "Monkey In Jungle Bokeh 1",
             "author": "Debojyoti Chakraborty",
