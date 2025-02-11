@@ -45,6 +45,76 @@
     ],
     "walls": [
         {
+            "id": 1294,
+            "name": "Crayon Deadpool",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/crayon_deadpool.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/thumb/crayon_deadpool.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "purple",
+                "orange",
+                "yellow"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1293,
+            "name": "Crayon Hulk",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/crayon_hulk.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/thumb/crayon_hulk.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "blue",
+                "black",
+                "white"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1292,
+            "name": "Crayon Wolverine",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/crayon_wolverine.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/thumb/crayon_wolverine.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "yellow",
+                "white",
+                "brown"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1291,
+            "name": "Crayon Miles Morales",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/crayon_miles_morales.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/thumb/crayon_miles_morales.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "blue",
+                "purple"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1290,
+            "name": "Crayon Symbiote Spiderman",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/crayon_symbiote_spiderman.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/cartoonish/crayon/thumb/crayon_symbiote_spiderman.jpg",
+            "category": "Cartoonish",
+            "color": [
+                "blue",
+                "black",
+                "gray",
+                "purple"
+            ],
+            "isPremium": false
+        },
+        {
             "id": 1289,
             "name": "Luminous Landscape 1",
             "author": "Debojyoti Chakraborty",
