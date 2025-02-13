@@ -3,8 +3,8 @@
         {
             "id": 1,
             "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/misc/banners/banner_1.png",
-            "category": "",
-            "link": "https://radpapers.in"
+            "category": "Scenery",
+            "link": ""
           },
           {
             "id": 2,
@@ -44,6 +44,47 @@
           }
     ],
     "walls": [
+        {
+            "id": 1297,
+            "name": "Valentines Day 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/scenery/valentines_day_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/scenery/thumb/valentines_day_1.jpg",
+            "category": "Scenery",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1296,
+            "name": "Valentines Day 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/scenery/valentines_day_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/scenery/thumb/valentines_day_2.jpg",
+            "category": "Scenery",
+            "color": [
+                "black",
+                "orange",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1295,
+            "name": "Valentines Day 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/scenery/valentines_day_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/scenery/scenery/thumb/valentines_day_3.jpg",
+            "category": "Scenery",
+            "color": [
+                "red",
+                "blue",
+                "purple"
+            ],
+            "isPremium": true
+        },
         {
             "id": 1294,
             "name": "Crayon Deadpool",
