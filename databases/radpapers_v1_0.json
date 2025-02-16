@@ -45,6 +45,63 @@
     ],
     "walls": [
         {
+            "id": 1301,
+            "name": "Minimal Synthwave 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/minimal_synthwave_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/thumb/minimal_synthwave_1.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "black",
+                "orange",
+                "red",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1300,
+            "name": "Minimal Synthwave 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/minimal_synthwave_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/thumb/minimal_synthwave_2.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "black",
+                "purple",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1299,
+            "name": "Minimal Synthwave 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/minimal_synthwave_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/thumb/minimal_synthwave_3.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "black",
+                "purple",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1298,
+            "name": "Minimal Synthwave 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/minimal_synthwave_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/synthwave/thumb/minimal_synthwave_4.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "black",
+                "purple",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1297,
             "name": "Valentines Day 1",
             "author": "Debojyoti Chakraborty",
