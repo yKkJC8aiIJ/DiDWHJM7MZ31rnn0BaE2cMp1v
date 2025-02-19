@@ -45,6 +45,69 @@
     ],
     "walls": [
         {
+            "id": 1306,
+            "name": "Etherial Ultraviolet Landscape",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/etherial_ultraviolet_landscape.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/thumb/etherial_ultraviolet_landscape.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "purple",
+                "blue"
+            ],
+            "isPremium": false
+        },
+        {
+            "id": 1305,
+            "name": "Cloudy Mist 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/cloudy_mist_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/thumb/cloudy_mist_1.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1304,
+            "name": "Cloudy Mist 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/cloudy_mist_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/thumb/cloudy_mist_2.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1303,
+            "name": "Cloudy Mist 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/cloudy_mist_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/thumb/cloudy_mist_3.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1302,
+            "name": "Cloudy Mist 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/cloudy_mist_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/3d_landscapes/cinematic/thumb/cloudy_mist_4.jpg",
+            "category": "3d Landscapes",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1301,
             "name": "Minimal Synthwave 1",
             "author": "Debojyoti Chakraborty",
