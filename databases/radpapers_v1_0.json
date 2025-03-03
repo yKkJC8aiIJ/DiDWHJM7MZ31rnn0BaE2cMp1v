@@ -45,6 +45,61 @@
     ],
     "walls": [
         {
+            "id": 1314,
+            "name": "Futuristic Drip 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/futuristic_drip_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/thumb/futuristic_drip_1.jpg",
+            "category": "Futuristic",
+            "color": [
+                "blue",
+                "red",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1313,
+            "name": "Futuristic Drip 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/futuristic_drip_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/thumb/futuristic_drip_2.jpg",
+            "category": "Futuristic",
+            "color": [
+                "white",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1312,
+            "name": "Futuristic Drip 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/futuristic_drip_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/thumb/futuristic_drip_3.jpg",
+            "category": "Futuristic",
+            "color": [
+                "black",
+                "purple",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1311,
+            "name": "Futuristic Drip 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/futuristic_drip_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/futuristic/fashion/thumb/futuristic_drip_4.jpg",
+            "category": "Futuristic",
+            "color": [
+                "black",
+                "gray",
+                "blue"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1310,
             "name": "Suv Cinematic 1",
             "author": "Debojyoti Chakraborty",
