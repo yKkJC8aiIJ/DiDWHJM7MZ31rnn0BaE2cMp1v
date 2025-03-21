@@ -45,6 +45,65 @@
     ],
     "walls": [
         {
+            "id": 1318,
+            "name": "Aesthetic Flowers 1",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/aesthetic_flowers_1.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/thumb/aesthetic_flowers_1.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "purple",
+                "white",
+                "red"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1317,
+            "name": "Aesthetic Flowers 2",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/aesthetic_flowers_2.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/thumb/aesthetic_flowers_2.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "red",
+                "white",
+                "gray",
+                "orange"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1316,
+            "name": "Aesthetic Flowers 3",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/aesthetic_flowers_3.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/thumb/aesthetic_flowers_3.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "white",
+                "green",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
+            "id": 1315,
+            "name": "Aesthetic Flowers 4",
+            "author": "Debojyoti Chakraborty",
+            "url": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/aesthetic_flowers_4.jpg",
+            "thumbnail": "https://ykkjc8aiij.github.io/DiDWHJM7MZ31rnn0BaE2cMp1v/radpapers_files/photorealistic/flowers/thumb/aesthetic_flowers_4.jpg",
+            "category": "Photorealistic",
+            "color": [
+                "white",
+                "red",
+                "black",
+                "orange",
+                "gray"
+            ],
+            "isPremium": true
+        },
+        {
             "id": 1314,
             "name": "Futuristic Drip 1",
             "author": "Debojyoti Chakraborty",
